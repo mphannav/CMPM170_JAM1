@@ -1,1 +1,1 @@
-Link to game: 
+Link to game: https://mphannav.github.io/CMPM170_JAM1/
